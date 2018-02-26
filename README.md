@@ -3,3 +3,4 @@
 #Implementation of Blockchain using python
 #Run the program as filename.py
 This project helps to add valid organisations to the chain. It also regulates valid transactions between organisations.
+Each organisation in the Block chain will have their own csv files 
